@@ -45,5 +45,24 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>GIDClientID</key>
+	<string>139861822575-45enubs9nemn8madt3ocqdl9s26t4uvo.apps.googleusercontent.com</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.139861822575-45enubs9nemn8madt3ocqdl9s26t4uvo</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Explain why your app uses photo library</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Reddit bunshin speech to text</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Reddit bunshin speech to text</string>
 </dict>
 </plist>
